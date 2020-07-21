@@ -1779,11 +1779,11 @@ code::-webkit-scrollbar-thumb:hover {
 }
 
         .gt-bg-theme-color-first {
-          background: #d0ebff!important;
+          background: #f8f9fa!important;
         }
         
         .gt-bg-theme-color-second {
-          background: #edf2ff!important;
+          background: #c5f6fa!important;
         }
         
         .gt-bg-content-color-first {
@@ -1803,11 +1803,11 @@ code::-webkit-scrollbar-thumb:hover {
         }
         
         .gt-c-theme-color-first {
-          color: #d0ebff!important;
+          color: #f8f9fa!important;
         }
         
         .gt-c-theme-color-second {
-          color: #edf2ff!important;
+          color: #c5f6fa!important;
         }
         
         .gt-c-content-color-first {
